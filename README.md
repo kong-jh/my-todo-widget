@@ -2,8 +2,9 @@
 
 pip3 install PyQt5
 
-[ ] add
-[ ] delete
-[ ] save to json
-[ ] date
-[ ] calendar
+*** to do list ***
+- [ ] add
+- [ ] delete
+- [ ] save to json
+- [ ] date
+- [ ] calendar
