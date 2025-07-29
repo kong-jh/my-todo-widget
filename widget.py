@@ -30,6 +30,7 @@ class TodoWidget(QWidget):
 
         # 이벤트 연결
         self.add_button.clicked.connect(self.add_todo)
+        self.input.returnPressed.connect(self.add_todo)
 
     def add_todo(self):
         text = self.input.text().strip()
